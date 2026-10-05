@@ -120,8 +120,8 @@ flowchart LR
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/<your-username>/brent-oil-forecast-sber.git
-cd brent-oil-forecast-sber
+git clone https://github.com/Metrahol/brent-oil-forecast.git
+cd brent-oil-forecast
 ```
 
 ### 2. Установка окружения
